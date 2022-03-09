@@ -9,7 +9,7 @@
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{YossefMohamed}/count.svg" alt="YossefMohamed :: Visitor's Count" /></p>
 <br/>
-<img align="right" height="220px" src="https://blog.YossefMohamed.com/logo/imYossefMohamed.gif" alt="YossefMohamed" />
+<img align="right" height="220px" src="https://www.ajournalofmusicalthings.com/wp-content/uploads/2019/08/Giphy-gopher-Alan.gif" alt="YossefMohamed" />
 
 - 🔭 I’m currently working on [pangu](https://github.com/YossefMohamed/pangu)
 - 🌱 I’m currently learning **vue**
@@ -32,7 +32,7 @@
 ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
-![React.js](http://img.shields.io/badge/-react.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
+![React.js](http://img.shields.io/badge/-react.js-41b883?style=flat-square&logo=react.js&logoColor=white)
 ![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
 ![Kotlinx Coroutines](http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 
@@ -57,25 +57,6 @@
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=YossefMohamed&theme=highcontrast&show_icons=true" /></span>
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YossefMohamed&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
-<div>
-  <a href="https://github.com/YossefMohamed/pangu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YossefMohamed&theme=highcontrast&repo=pangu" />
-  </a>
-    <a href="https://github.com/YossefMohamed/nezha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YossefMohamed&theme=highcontrast&repo=nezha" />
-  </a>
-  <a href="https://github.com/YossefMohamed/hongjun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YossefMohamed&theme=highcontrast&repo=hongjun" />
-  </a>
-  <a href="https://github.com/YossefMohamed/luya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YossefMohamed&theme=highcontrast&repo=luya" />
-  </a>
-    <a href="https://github.com/YossefMohamed/nvwa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YossefMohamed&theme=highcontrast&repo=nvwa" />
-  </a>
-</div>
 
 -----
-Credits: [YossefMohamed](https://github.com/YossefMohamed)
-
 Last Edited on: 3/8/2022
