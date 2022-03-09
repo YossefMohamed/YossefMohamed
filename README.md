@@ -11,7 +11,7 @@
 <br/>
 <img align="right" height="220px" src="https://www.ajournalofmusicalthings.com/wp-content/uploads/2019/08/Giphy-gopher-Alan.gif" alt="YossefMohamed" />
 
-- 🔭 I’m currently working on [pangu](https://github.com/YossefMohamed/pangu)
+- 🔭 I’m currently working on [Qurany](https://github.com/YossefMohamed/QN)
 - 🌱 I’m currently learning **vue**
 - 👨‍💻 All of my projects are available at [https://github.com/YossefMohamed](https://github.com/YossefMohamed)
 - 💬 Ask me about **java**
