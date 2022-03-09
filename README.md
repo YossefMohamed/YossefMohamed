@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YossefMohamed</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h3 align="center">A passionate MERN stack developer from Egypt</h3>
 
 ---
 
@@ -32,9 +32,10 @@
 ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
-![React.js](http://img.shields.io/badge/-react.js-41b883?style=flat-square&logo=react.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
-![Kotlinx Coroutines](http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux.Js](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
@@ -50,6 +51,7 @@
 
 ### 💬 Contact Me
 
+![My Portfolio](https://yossefmohamed.netlify.app/)
 
 ### 🚦 Stats
 
