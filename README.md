@@ -12,9 +12,9 @@
 <img align="right" height="220px" src="https://www.ajournalofmusicalthings.com/wp-content/uploads/2019/08/Giphy-gopher-Alan.gif" alt="YossefMohamed" />
 
 - 🔭 I’m currently working on [Qurany](https://github.com/YossefMohamed/QN)
-- 🌱 I’m currently learning **vue**
+- 🌱 I’m currently learning **REACT NATIVE**
 - 👨‍💻 All of my projects are available at [https://github.com/YossefMohamed?tab=repositories](https://github.com/YossefMohamed?tab=repositories)
-- 💬 Ask me about **java**
+- 💬 Ask me about **JAVASCRIPT**
 - 📫 How to reach me **YossefMohamed112233@gmail.com**
 - ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
 
