@@ -51,7 +51,7 @@
 
 ### 💬 Contact Me
 
-![My Portfolio](https://yossefmohamed.netlify.app/)
+[My Portfolio](https://yossefmohamed.netlify.app/)
 
 ### 🚦 Stats
 
