@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Qurany](https://github.com/YossefMohamed/QN)
 - 🌱 I’m currently learning **vue**
-- 👨‍💻 All of my projects are available at [https://github.com/YossefMohamed](https://github.com/YossefMohamed)
+- 👨‍💻 All of my projects are available at [https://github.com/YossefMohamed?tab=repositories](https://github.com/YossefMohamed?tab=repositories)
 - 💬 Ask me about **java**
 - 📫 How to reach me **YossefMohamed112233@gmail.com**
 - ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
@@ -31,6 +31,9 @@
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
 ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
