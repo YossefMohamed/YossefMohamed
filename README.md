@@ -87,7 +87,7 @@
 <div>
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=YossefMohamed&theme=highcontrast&show_icons=true" /></span>
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YossefMohamed&theme=dark&layout=compact&langs_count=10" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-streak-stats.herokuapp.com/?user=YossefMohamed&theme=dark&hide_border=false" /></span>
+  <span><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=YossefMohamed&theme=dark&hide_border=false" /></span>
 </div>
 
 
