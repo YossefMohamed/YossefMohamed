@@ -9,12 +9,12 @@
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{YossefMohamed}/count.svg" alt="YossefMohamed :: Visitor's Count" /></p>
 <br/>
-<img align="right" height="220px" src="https://www.ajournalofmusicalthings.com/wp-content/uploads/2019/08/Giphy-gopher-Alan.gif" alt="YossefMohamed" />
+<img align="right" height="220px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="YossefMohamed" />
 
-- 🔭 I’m currently working on [Covid-api](https://github.com/YossefMohamed/covid-app-api)
+- 🔭 I’m currently working on [movie-app](https://github.com/YossefMohamed/Movie-app)
 - 🌱 I’m currently learning **REACT NATIVE**
 - 👨‍💻 All of my projects are available at [https://github.com/YossefMohamed?tab=repositories](https://github.com/YossefMohamed?tab=repositories)
-- 💬 Ask me about **JAVASCRIPT**
+- 💬 Ask me about **JAVASCRIPT/TYPESCRIPT**
 - 📫 How to reach me **YossefMohamed112233@gmail.com**
 - ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
 
