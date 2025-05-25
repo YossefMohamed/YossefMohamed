@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
+<h1 align="center">السلام عليكم (Peace be upon you) 🌿, I'm Youssef Mohamed</h1>
 <h3 align="center">Senior Software Engineer at VOIS (Vodafone International Services)</h3>
 
 <p align="center">
@@ -21,7 +21,6 @@
 
 ## 🧰 Tech Stack & Tools
 
-### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -47,6 +46,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat-square&logo=mongoose&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
